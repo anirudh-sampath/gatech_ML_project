@@ -1,5 +1,6 @@
 ## Automatic Detection of Offensive Jokes
-CS7641 Course Project
+CS7641 Course Project - April 2022
+Authors: Anirudh Sampath, Lokraj Srinivasan, Sriram Yenamandra, Aaditya Singh, Mayank Lunayach
 
 ### Introduction/Background
 
